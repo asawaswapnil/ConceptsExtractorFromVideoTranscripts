@@ -1,0 +1,12 @@
+marisa_trie
+nltk
+spacy
+numpy
+gensim
+matplotlib
+scipy
+beautifulsoup4
+scikit_learn
+cython
+pandas
+pygtrie
