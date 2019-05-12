@@ -29,8 +29,7 @@ class Document:
 def load_document(path,booknames=[],textfield=['text'],idfield="id",otherfields=[],idelimiter=',',booknamefield='bookname'):
     print('Start loading documents from %s' % path)
     doc_list = []
-    df = pd.read_csv(path,header=0,delimiter=idelimiter)
-
+    df = pd.read_csv(path,header=0,delimiter=idelimiter) #df is a daraframe from sample_File.csv 
     for index,row in df.iterrows():
         if(len(booknames) == 0  or ( row[booknamefield].startswith(tuple(booknames)))):
             # print(row[idfield])
@@ -38,6 +37,11 @@ def load_document(path,booknames=[],textfield=['text'],idfield="id",otherfields=
             text = text  + [" "]
             otherfields_dict = { column:row[column] for column in df.columns if (column not in textfield and column != idfield and column in otherfields)}
             doc = Document(str(row[idfield]),' '.join(text),otherfields_dict)
+            #Example: 
+            #str(row[idfield])='2101', 
+            #text: ['book 1 text 1 2101. This is just to  test if the code is able to load the text Hello please let me know. Gamma Encoding', ' ']
+            #otherfields_dict={'bookname': 'iir'}
+
             doc_list.append(doc)
     return doc_list
 

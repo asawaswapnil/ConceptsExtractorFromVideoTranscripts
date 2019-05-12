@@ -12,14 +12,11 @@ stemmer = PorterStemmer()
 STOPWORD_PATH = 'data/stopword/stopword_en.txt'
 
 def load_stopwords(sfile = config.STOPWORD_PATH):
-
     dict = set()
     file = open(sfile, 'r')
     for line in file:
         dict.add(line.lower().strip())
     return dict
-
-
 
 def stem(text):
     word_list = text.split(" ")

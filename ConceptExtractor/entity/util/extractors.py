@@ -44,5 +44,5 @@ def extract_top_kcs(doc2concepts, output_dir,topk=-1,threshold = 0.0,define_kc=F
         filew.close()
 
     df = pd.DataFrame(list_con,columns=['item_id','concept','weight'])
-    return
+    return df
 

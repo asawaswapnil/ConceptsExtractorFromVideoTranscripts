@@ -24,6 +24,8 @@ Word2Vec<br />
 -  You have to have a text file  with text in : IR_CORPUS = 'add the path to your file here'<br />
 - And uncomment the concept method you want to run<br />
 - The concepts will be generated in folder keyphrase_output
+- start with running command sh run.sh
+- then command: python3 concept_extractor.py 
 
 
 ## Failure of Marisa Trie ... point explicity to C path

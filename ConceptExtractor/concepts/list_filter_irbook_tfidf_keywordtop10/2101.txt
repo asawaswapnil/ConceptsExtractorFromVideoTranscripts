@@ -1,0 +1,3 @@
+concept,weight
+gamma encod,0.2617
+test,0.1162

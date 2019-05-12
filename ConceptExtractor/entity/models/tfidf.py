@@ -13,22 +13,22 @@ class TFIDFExtractor():
     Word2Vec_features
     '''
     def __init__(self, documents,ngram = (1,3) ,mindf = 1):
-        pdocuments = nlp.preprocessed_docs(documents)
+        pdocuments = nlp.preprocessed_docs(documents) # remove stop words and stem
         self.raw_documents = documents
-        self.docs = [ ' '.join(doc.tokens) for doc in pdocuments]
-        self.maxdf = max(len(documents) * 0.90,mindf)
-        self.mindf = mindf
-        self.ngram = ngram
+        self.docs = [ ' '.join(doc.tokens) for doc in pdocuments] # list of str per line of csv: ['book text test code load text gamma encod', 'book text test code load text basket flower', 'book text test code load text walk roam', 'book text test code load text', 'book text test code load text', 'book mir text test code load text']
+        self.maxdf = max(len(documents) * 0.90,mindf) # max of( no.of docs*0.9, 1)
+        self.mindf = mindf 
+        self.ngram = ngram #(1,5)
         self.model = None
         self.trained = False
 
     def train(self):
         print("TFIDF trained for " + str(self.ngram))
 
-        tf = TfidfVectorizer(analyzer='word', ngram_range=self.ngram,min_df=self.mindf,max_df=self.maxdf )
+        tf = TfidfVectorizer(analyzer='word', ngram_range=self.ngram,min_df=self.mindf,max_df=self.maxdf ) #Convert a collection of raw documents to a matrix of TF-IDF features. 
         self.matrix = tf.fit(self.docs)
         self.model = tf
-        self.i2w = tf.get_feature_names()
+        self.i2w = tf.get_feature_names() # list of the names of words of 1-5 ngrams
         self.trained = True
 
     def save_model(self,filename):
