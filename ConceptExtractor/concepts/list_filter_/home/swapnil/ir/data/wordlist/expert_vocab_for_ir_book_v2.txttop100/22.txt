@@ -1,0 +1,48 @@
+concept,weight
+featur,0.5763
+queri,0.4588
+relev,0.3767
+document,0.1846
+word,0.1766
+class,0.1537
+tf idf,0.1477
+tf,0.1477
+idf,0.1477
+classifi,0.1441
+learn,0.1358
+classif,0.1238
+weight,0.1153
+retriev,0.1105
+phrase,0.0914
+anchor text,0.0895
+document relev,0.0768
+text,0.0757
+vector,0.072
+posit,0.0679
+tf idf weight,0.0555
+pagerank,0.0555
+independ,0.0555
+idf weight,0.0555
+class classif,0.0555
+spam,0.0492
+queri term,0.0447
+input output,0.0447
+train data,0.0413
+optim,0.0413
+low,0.0413
+inform,0.0409
+relev inform,0.0384
+effect,0.0384
+train,0.036
+post,0.036
+categori,0.036
+search engin,0.0339
+standard,0.0321
+function,0.0305
+specif,0.029
+product,0.029
+term,0.0264
+search,0.0264
+comput,0.0264
+sort,0.0252
+data,0.0168

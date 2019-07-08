@@ -1,0 +1,9 @@
+concept,weight
+html,0.7038
+test,0.3277
+schema,0.3277
+metadata,0.3277
+rank,0.2894
+structur data,0.2059
+structur,0.1893
+data,0.1435

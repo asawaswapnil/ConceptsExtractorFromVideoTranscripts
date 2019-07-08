@@ -1,0 +1,10 @@
+concept,weight
+structur data,0.7155
+databas,0.4152
+type,0.381
+data structur,0.2728
+term,0.1737
+unstructur data,0.1661
+impact,0.162
+document,0.0868
+inform,0.0674

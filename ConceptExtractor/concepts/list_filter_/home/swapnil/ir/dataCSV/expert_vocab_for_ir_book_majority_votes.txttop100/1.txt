@@ -1,0 +1,49 @@
+concept,weight
+test collect,0.4693
+test,0.4638
+collect,0.4097
+inform,0.3088
+relev,0.2449
+trec,0.2011
+document,0.191
+queri,0.1457
+perform,0.1304
+binari,0.1188
+retriev,0.1167
+inform retriev,0.1163
+retriev system,0.081
+inform retriev system,0.081
+tune paramet,0.0801
+inform retriev effect,0.0801
+ad hoc inform retriev,0.0801
+weight,0.0696
+effect,0.0696
+queri document pair,0.067
+measur,0.054
+document relev,0.0464
+text,0.0457
+topic,0.0435
+trec evalu,0.04
+trec ad hoc track,0.04
+text retriev confer,0.04
+text retriev,0.04
+test set,0.04
+test document,0.04
+relev assess,0.04
+nonrelev document,0.04
+margin,0.04
+ground truth,0.04
+gold standard,0.04
+develop test collect,0.04
+cranfield collect,0.04
+cranfield,0.04
+binari relev judgment,0.04
+document collect,0.0335
+web search engin,0.0297
+rule,0.0297
+web search,0.0249
+classif,0.0249
+ir,0.0217
+search engin,0.0205
+search,0.0159
+type,0.014

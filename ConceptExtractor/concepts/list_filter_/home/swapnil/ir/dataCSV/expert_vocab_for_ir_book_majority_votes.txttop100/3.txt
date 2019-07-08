@@ -1,0 +1,41 @@
+concept,weight
+inform,0.4422
+document,0.3389
+queri,0.3385
+retriev,0.3227
+field,0.3203
+inform retriev,0.2813
+unstructur data,0.221
+databas,0.2062
+structur data,0.1974
+text,0.1915
+corpu,0.1473
+databas system,0.1437
+retriev system,0.1045
+relat databas,0.1045
+inform retriev system,0.1045
+data structur,0.0968
+relev,0.0846
+ir system,0.0723
+document relev,0.0673
+ir,0.0631
+string,0.0595
+gap,0.0575
+specif,0.0339
+zone,0.0287
+retriev document,0.0287
+comput linguist,0.0287
+xml,0.0261
+natur languag process,0.0261
+markup,0.0261
+document retriev,0.0261
+secur,0.0241
+html,0.0241
+topic,0.021
+post,0.021
+collect,0.0198
+key,0.0169
+term,0.0154
+search,0.0154
+sort,0.0147
+type,0.0135

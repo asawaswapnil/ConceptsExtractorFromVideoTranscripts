@@ -1,0 +1,44 @@
+concept,weight
+data,0.5432
+unstructur data,0.3186
+byte,0.314
+databas,0.2832
+structur,0.2493
+text,0.2478
+type,0.2274
+label,0.1738
+applic,0.1627
+ascii text,0.1559
+document,0.1481
+ascii,0.1382
+term,0.1111
+languag,0.1011
+code,0.0953
+model,0.0901
+structur queri,0.078
+snippet,0.078
+queri languag,0.078
+megabyt,0.078
+disk space,0.078
+user,0.074
+word,0.0708
+equat,0.0691
+disk,0.0691
+shift,0.0628
+break,0.0628
+versu,0.0539
+test,0.0539
+leav,0.0539
+block,0.0539
+blog,0.0506
+record,0.0451
+retriev,0.0388
+process,0.0388
+data structur,0.0388
+bit,0.0388
+comput,0.037
+system,0.0354
+sort,0.0354
+structur data,0.0339
+queri,0.0339
+inform,0.0287

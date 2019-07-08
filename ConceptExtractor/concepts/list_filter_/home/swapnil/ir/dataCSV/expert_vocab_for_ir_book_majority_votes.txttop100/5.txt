@@ -1,0 +1,11 @@
+concept,weight
+text,0.6237
+queri,0.5225
+perform,0.334
+unstructur text,0.2766
+train,0.2227
+join,0.2227
+path,0.1383
+pars,0.1383
+bit,0.0854
+type,0.0715

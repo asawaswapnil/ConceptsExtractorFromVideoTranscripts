@@ -1,0 +1,6 @@
+concept,weight
+bit,0.8043
+unstructur data,0.408
+secur,0.4005
+inform,0.1324
+key,0.0937

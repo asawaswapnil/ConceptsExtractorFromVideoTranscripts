@@ -1,0 +1,71 @@
+concept,weight
+type,0.5146
+array,0.4078
+data,0.3301
+key,0.3033
+string,0.2516
+valu,0.224
+queri,0.1685
+data set,0.1675
+sort,0.154
+bit,0.1445
+databas,0.132
+function,0.1195
+standard,0.112
+list,0.1099
+matrix,0.1079
+mean,0.1011
+processor,0.0858
+schema,0.0838
+filter,0.0838
+join,0.0785
+code,0.074
+comput,0.069
+split,0.0644
+posit,0.0592
+effici,0.0503
+reuter,0.0484
+hash,0.0429
+break,0.039
+specif,0.0379
+compress,0.036
+analysi,0.036
+search,0.0345
+featur,0.0335
+vector,0.0314
+structur,0.029
+map,0.028
+odd,0.0242
+direct graph,0.0242
+dimension plane,0.0242
+collaps,0.0242
+array normal,0.0242
+process,0.0241
+term,0.023
+system,0.022
+search result,0.0215
+merg,0.0215
+chunk,0.0215
+ascii,0.0215
+accumul,0.0215
+variabl,0.0195
+queri term,0.0195
+normal,0.0195
+node,0.0195
+cost,0.0195
+precis,0.018
+express,0.018
+dimension,0.018
+inform,0.0178
+regular,0.0168
+leav,0.0168
+class,0.0168
+block,0.0168
+perform,0.0157
+distribut,0.0157
+algorithm,0.0157
+field,0.0133
+applic,0.0126
+data structur,0.012
+unstructur data,0.011
+structur data,0.0105

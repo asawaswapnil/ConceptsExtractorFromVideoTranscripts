@@ -1,0 +1,96 @@
+concept,weight
+tree,0.6136
+node,0.3333
+search tree,0.2449
+hash,0.217
+binari search,0.2111
+binari,0.1946
+binari search tree,0.1942
+search,0.1805
+term,0.1724
+record,0.1708
+children,0.1571
+array,0.1571
+dictionari,0.1564
+list,0.1041
+string,0.1032
+index,0.098
+root,0.0973
+subtre,0.0929
+hash function,0.0929
+element,0.0816
+function,0.0787
+post list,0.0673
+key,0.0661
+post,0.0657
+byte,0.0544
+pointer,0.0507
+intern node,0.0507
+map,0.0488
+structur,0.0439
+collis,0.0422
+word,0.0383
+vocabulari,0.0376
+path,0.034
+frequenc,0.034
+document frequenc,0.034
+search term,0.0338
+leaf,0.0338
+invert index,0.0299
+invert,0.0299
+retriev,0.0294
+document,0.0281
+posit,0.0258
+term vocabulari,0.0253
+standard invert index,0.0253
+leaf node,0.0253
+queri,0.022
+algorithm,0.0219
+collect,0.0206
+standard,0.0195
+sort,0.0192
+follow,0.0175
+effici,0.0175
+wildcard,0.0169
+root element,0.0169
+rebalanc,0.0169
+data structur,0.0168
+distribut,0.0164
+linear,0.015
+valu,0.0146
+secur,0.0125
+compress,0.0125
+inform,0.0124
+leav,0.0117
+corpu,0.011
+data,0.0102
+mean,0.0088
+wildcard queri,0.0084
+tree travers,0.0084
+term dictionari,0.0084
+structur term,0.0084
+root node,0.0084
+recal,0.0084
+queri string,0.0084
+narrow term,0.0084
+main memori,0.0084
+list search,0.0084
+key rang,0.0084
+dictionari data structur,0.0084
+dictionari compress,0.0084
+compress post list,0.0084
+compress dictionari,0.0084
+binari tree,0.0084
+system,0.0077
+smooth,0.0075
+queri time,0.0075
+disk,0.0075
+document term,0.0068
+univers,0.0063
+memori,0.0063
+metadata,0.0058
+phrase,0.0046
+field,0.0046
+match,0.0044
+depend,0.0042
+structur data,0.0037

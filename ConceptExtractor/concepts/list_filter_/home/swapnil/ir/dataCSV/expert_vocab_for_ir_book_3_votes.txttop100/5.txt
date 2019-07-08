@@ -1,0 +1,4 @@
+concept,weight
+queri,0.8774
+unstructur text,0.4645
+type,0.1201

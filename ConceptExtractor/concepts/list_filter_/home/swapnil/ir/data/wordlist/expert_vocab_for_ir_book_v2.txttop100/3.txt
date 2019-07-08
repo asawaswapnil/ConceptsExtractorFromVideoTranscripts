@@ -1,0 +1,65 @@
+concept,weight
+data,0.3934
+structur,0.3867
+inform,0.3472
+document,0.2661
+queri,0.2657
+retriev,0.2533
+field,0.2514
+inform retriev,0.2208
+system,0.1966
+unstructur data,0.1735
+databas,0.1619
+structur data,0.155
+text,0.1503
+process,0.1393
+corpu,0.1156
+databas system,0.1128
+retriev system,0.082
+relat databas,0.082
+inform retriev system,0.082
+data structur,0.076
+express,0.0757
+relev,0.0664
+ir system,0.0568
+phrase,0.0559
+document relev,0.0528
+ir,0.0495
+string,0.0467
+gap,0.0451
+record,0.0442
+text document,0.0378
+comput,0.0363
+relev inform,0.0352
+word,0.0347
+languag,0.033
+specif,0.0266
+mean,0.0266
+match,0.0266
+zone,0.0226
+util,0.0226
+retriev document,0.0226
+comput linguist,0.0226
+xml,0.0205
+natur languag process,0.0205
+markup,0.0205
+document retriev,0.0205
+text data,0.0189
+secur,0.0189
+languag process,0.0189
+html,0.0189
+follow,0.0176
+topic,0.0165
+post,0.0165
+identifi,0.0165
+blog,0.0165
+collect,0.0156
+valu,0.0147
+standard,0.0147
+key,0.0133
+depend,0.0127
+user,0.0121
+term,0.0121
+search,0.0121
+sort,0.0116
+type,0.0106

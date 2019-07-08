@@ -1,0 +1,101 @@
+concept,weight
+vector,0.4221
+word,0.4152
+product,0.3558
+text,0.3096
+label,0.2993
+identifi,0.2311
+top,0.206
+keyword,0.1872
+type,0.1679
+pars,0.1373
+valu,0.1254
+key,0.1051
+train,0.1005
+list,0.1005
+learn,0.0947
+index,0.0947
+data,0.0751
+join,0.0703
+schema,0.0643
+data set,0.0643
+unstructur text,0.0624
+weight vector,0.062
+capit,0.062
+network,0.0603
+distribut,0.0603
+term,0.0589
+weight,0.0536
+featur,0.0536
+phrase,0.051
+categori,0.0502
+probabl,0.0499
+mean,0.0485
+match,0.0485
+key pair,0.0465
+condit random field,0.0465
+accuraci,0.0465
+memori,0.046
+versu,0.0429
+input output,0.0374
+train data,0.0345
+classif,0.0345
+test,0.0322
+length,0.0322
+class,0.0322
+structur,0.031
+bit,0.0308
+classifi,0.0301
+search,0.0294
+vote,0.0275
+probabl distribut,0.0275
+machin learn,0.0275
+field,0.0255
+relev,0.0243
+skip,0.023
+matrix,0.023
+low,0.023
+inform,0.0228
+comput,0.0221
+leav,0.0214
+filter,0.0214
+block,0.0214
+inform retriev,0.0179
+applic,0.0162
+train data set,0.0155
+test data,0.0155
+structur search,0.0155
+string match,0.0155
+python,0.0155
+pool,0.0155
+parser,0.0155
+nlp,0.0155
+imag search,0.0155
+featur vector,0.0155
+decod,0.0155
+confid,0.0155
+cf,0.0155
+retriev,0.0154
+depend,0.0154
+signific,0.0137
+equat,0.0137
+encod,0.0125
+vocabulari,0.0115
+task,0.0115
+precis,0.0115
+dimension,0.0115
+compress,0.0115
+analysi,0.0115
+regular,0.0107
+corpu,0.01
+blog,0.01
+algorithm,0.01
+string,0.0095
+posit,0.0095
+code,0.0095
+model,0.009
+map,0.009
+function,0.0085
+specif,0.0081
+data structur,0.0077
+user,0.0074

@@ -1,0 +1,6 @@
+concept,weight
+unstructur data,0.6407
+classifi,0.61
+classif,0.3494
+document,0.2233
+databas,0.2136

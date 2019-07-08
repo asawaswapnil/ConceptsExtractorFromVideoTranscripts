@@ -1,0 +1,101 @@
+concept,weight
+model,0.5265
+queri,0.4094
+document,0.4069
+train,0.3805
+featur,0.1922
+term,0.1686
+text,0.1542
+ir,0.1452
+task,0.1434
+rank,0.1226
+vector,0.1202
+relev,0.1128
+topic,0.1001
+train queri,0.0926
+field,0.0847
+document rank,0.0746
+neural network,0.0618
+queri term,0.0497
+specif,0.0483
+queri document pair,0.0463
+retriev,0.0461
+corpu,0.0451
+score,0.0435
+relev feedback,0.041
+pseudo relev feedback,0.041
+inform,0.0398
+nearest neighbor,0.0386
+type,0.0354
+effect,0.032
+spars,0.0309
+machin learn,0.0274
+expand queri,0.0274
+cosin similar,0.0274
+search,0.0257
+encod,0.0249
+sort,0.0245
+term frequenc,0.0232
+centroid,0.0232
+train data,0.0229
+inform retriev,0.0223
+weight,0.0214
+document relev,0.0214
+perform,0.02
+index,0.0189
+vector space,0.0187
+relev document,0.0187
+dot product,0.0187
+map,0.0178
+product,0.0161
+vector represent,0.0154
+train document,0.0154
+machin learn model,0.0154
+ir model,0.0154
+global analysi,0.0154
+entropi,0.0154
+bit,0.0154
+split,0.0137
+queri expans,0.0124
+web search,0.0115
+memori,0.0115
+regular,0.0107
+filter,0.0107
+search engin,0.0094
+key,0.0081
+trec,0.0077
+translat model,0.0077
+topic relev,0.0077
+term ambigu,0.0077
+synonymi,0.0077
+proxim queri,0.0077
+ndcg,0.0077
+linear combin,0.0077
+lexicon,0.0077
+ir queri,0.0077
+index term,0.0077
+field queri,0.0077
+extend queri,0.0077
+document model,0.0077
+document length,0.0077
+document id,0.0077
+clickstream data,0.0077
+retriev model,0.0068
+queri represent,0.0068
+linear,0.0068
+invers document frequenc,0.0068
+invers,0.0068
+document vector,0.0068
+binari,0.0068
+path,0.0062
+normal,0.0062
+measur,0.0062
+document retriev,0.0062
+document frequenc,0.0062
+precis,0.0057
+optim,0.0057
+label,0.0057
+compress,0.0057
+test,0.0053
+join,0.005
+classifi,0.005

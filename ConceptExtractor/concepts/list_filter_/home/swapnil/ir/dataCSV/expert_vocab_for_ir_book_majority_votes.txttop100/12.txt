@@ -1,0 +1,21 @@
+concept,weight
+unstructur data,0.4405
+structur data,0.4217
+databas,0.3776
+inform,0.3574
+code,0.254
+type,0.231
+field,0.228
+classifi,0.1797
+parent,0.1386
+data structur,0.1378
+bit,0.1378
+file system,0.1228
+queri,0.1205
+relat databas,0.1116
+byte,0.1116
+break,0.1116
+classif,0.1029
+weight,0.0959
+model,0.0801
+product,0.0723

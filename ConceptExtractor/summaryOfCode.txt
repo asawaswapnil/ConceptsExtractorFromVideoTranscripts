@@ -1,0 +1,25 @@
+Documentation to understand the code:
+
+
+1. In the start of the code, it takes in the csv of documents. It asks the type of list filter, and the concepts list(file containing all the concepts).
+2. dc.load_document process the csv and gives a list of objects. Each object has 1. the text from 1 row (from samplefile.csv). 2. other metadata about text. 
+3. depending on the type of filter, it will execute. 
+4. if it's list_filter:
+	4.1 send the object list, and desired n of n-grams( here 1 to 5) to the tfidf extractor. 
+		4.1.1 tfidf extractor removes, the stop words and stem with nlp.preprosessed_docs file  
+	4.2. send for training
+		4.2.1 Initializatons for setting up tf-idf table	
+		4.2.2 # Array mapping from feature integer indices to feature name
+	4.3 Till now, we have NOT used the concepts list we have from vocab
+	4.4 keyword.KeywordList returns the trie of concepts of vocab
+	4.5  model.get_Topics gets weights of tf-df for all 1-5 grams
+		4.5.1 Convert a collection of raw documents to a matrix of TF-IDF features using sklearn TfidfVectorizer transform function
+	4.6 keyword_list.get_Topics_secondFilter finally scans vocab to check if the grams of your docs are in the vocab. 
+	4.7 add it to the final csv
+
+	
+
+
+
+
+

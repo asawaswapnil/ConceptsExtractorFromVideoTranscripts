@@ -1,0 +1,27 @@
+concept,weight
+model,0.4671
+queri,0.3513
+ir system,0.3431
+relev,0.3012
+ir,0.2995
+vector space model,0.2309
+boolean model,0.2309
+inform,0.2127
+vector space,0.186
+boolean,0.186
+vector,0.1497
+rank,0.1411
+search,0.1097
+web search engin,0.1023
+search system,0.1023
+rule,0.1023
+type,0.0962
+dot product,0.093
+web search,0.0858
+effect,0.0799
+search engin,0.0705
+inform retriev,0.0667
+product,0.0602
+retriev,0.0574
+sort,0.0524
+databas,0.0524

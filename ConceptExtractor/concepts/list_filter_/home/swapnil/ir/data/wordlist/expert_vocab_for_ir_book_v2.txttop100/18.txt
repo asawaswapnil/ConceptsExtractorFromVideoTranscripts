@@ -1,0 +1,33 @@
+concept,weight
+data,0.7539
+outlier,0.4014
+accumul,0.249
+unstructur data,0.2005
+algorithm,0.1822
+languag,0.1562
+master,0.1423
+comput,0.1334
+structur,0.1123
+inform,0.1035
+word,0.0911
+identifi,0.0781
+structur data,0.0698
+shift,0.0647
+probabl,0.0647
+depend,0.0599
+sort,0.0547
+phrase,0.044
+mean,0.0419
+translat dictionari,0.0401
+thesauru,0.0401
+rout,0.0401
+process,0.0399
+dictionari,0.0323
+regular,0.0278
+learn,0.0245
+code,0.0245
+top,0.0232
+applic,0.0209
+data structur,0.02
+user,0.0191
+type,0.0167

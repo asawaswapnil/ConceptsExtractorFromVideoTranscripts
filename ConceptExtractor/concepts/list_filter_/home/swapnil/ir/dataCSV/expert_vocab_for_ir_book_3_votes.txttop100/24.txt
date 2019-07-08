@@ -1,0 +1,4 @@
+concept,weight
+unstructur data,0.9292
+inform,0.3016
+key,0.2135

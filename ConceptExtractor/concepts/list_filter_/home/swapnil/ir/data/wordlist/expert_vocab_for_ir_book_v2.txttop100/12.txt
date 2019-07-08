@@ -1,0 +1,39 @@
+concept,weight
+data,0.6711
+block,0.5242
+structur,0.1864
+unstructur data,0.1853
+structur data,0.1774
+databas,0.1588
+inform,0.1504
+applic,0.1217
+network,0.1134
+code,0.1069
+type,0.0972
+field,0.0959
+length,0.0807
+system,0.0794
+classifi,0.0756
+parent,0.0583
+oper system,0.0583
+categor,0.0583
+data structur,0.058
+bit,0.058
+pdf,0.0517
+file system,0.0517
+chunk,0.0517
+queri,0.0507
+relat databas,0.047
+input output,0.047
+data model,0.047
+byte,0.047
+break,0.047
+express,0.0433
+classif,0.0433
+weight,0.0403
+list,0.0378
+record,0.0337
+model,0.0337
+product,0.0304
+process,0.029
+depend,0.029

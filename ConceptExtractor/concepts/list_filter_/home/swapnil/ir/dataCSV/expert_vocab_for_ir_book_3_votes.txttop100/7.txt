@@ -1,0 +1,36 @@
+concept,weight
+label,0.7204
+type,0.404
+key,0.253
+index,0.2279
+schema,0.1548
+unstructur text,0.1502
+weight vector,0.1492
+term,0.1417
+weight,0.129
+key pair,0.1119
+accuraci,0.1119
+memori,0.1108
+train data,0.0831
+classif,0.0831
+test,0.0774
+class,0.0774
+classifi,0.0726
+probabl distribut,0.0661
+machin learn,0.0661
+relev,0.0584
+inform,0.055
+filter,0.0516
+inform retriev,0.0431
+pool,0.0373
+parser,0.0373
+encod,0.03
+vocabulari,0.0277
+precis,0.0277
+regular,0.0258
+corpu,0.0242
+string,0.0228
+specif,0.0195
+data structur,0.0185
+unstructur data,0.0169
+queri,0.0162

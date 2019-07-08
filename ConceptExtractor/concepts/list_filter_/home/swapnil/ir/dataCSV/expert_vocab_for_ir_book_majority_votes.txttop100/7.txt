@@ -1,0 +1,64 @@
+concept,weight
+vector,0.5343
+product,0.4503
+text,0.392
+label,0.3789
+type,0.2125
+pars,0.1738
+key,0.1331
+train,0.1272
+index,0.1199
+join,0.0891
+schema,0.0814
+unstructur text,0.079
+weight vector,0.0785
+capit,0.0785
+term,0.0745
+weight,0.0678
+featur,0.0678
+probabl,0.0632
+key pair,0.0588
+condit random field,0.0588
+accuraci,0.0588
+memori,0.0583
+train data,0.0437
+classif,0.0437
+test,0.0407
+class,0.0407
+bit,0.039
+classifi,0.0382
+search,0.0373
+vote,0.0348
+probabl distribut,0.0348
+machin learn,0.0348
+field,0.0323
+relev,0.0307
+inform,0.0289
+filter,0.0271
+inform retriev,0.0227
+train data set,0.0196
+test data,0.0196
+structur search,0.0196
+pool,0.0196
+parser,0.0196
+nlp,0.0196
+featur vector,0.0196
+decod,0.0196
+retriev,0.0195
+encod,0.0158
+vocabulari,0.0146
+task,0.0146
+precis,0.0146
+compress,0.0146
+regular,0.0136
+corpu,0.0127
+algorithm,0.0127
+string,0.012
+code,0.012
+model,0.0113
+map,0.0113
+specif,0.0102
+data structur,0.0098
+unstructur data,0.0089
+sort,0.0089
+queri,0.0085

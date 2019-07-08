@@ -1,0 +1,3 @@
+concept,weight
+index,0.8564
+inform,0.5164

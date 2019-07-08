@@ -1,0 +1,87 @@
+concept,weight
+tree,0.5162
+search tree,0.2912
+term,0.2892
+hash,0.2581
+search,0.2389
+queri,0.2302
+queri term,0.1919
+binari,0.1877
+vocabulari,0.177
+dictionari,0.1706
+node,0.1493
+invert index,0.1408
+invert,0.1408
+vocabulari term,0.1324
+intern node,0.1324
+collis,0.1059
+index,0.0971
+key,0.0829
+wildcard,0.0794
+rebalanc,0.0794
+pointer,0.0794
+document collect,0.0794
+binari tree,0.0794
+binari search tree,0.0794
+binari search,0.0794
+root,0.0704
+collect,0.0647
+lookup,0.0632
+hash collis,0.0632
+branch,0.0632
+accent,0.0632
+document,0.0629
+test,0.0549
+wildcard queri,0.0529
+structur,0.0529
+search term,0.0529
+hash function,0.0529
+collaps,0.0529
+post,0.0515
+user,0.0503
+disk,0.0469
+children,0.0469
+function,0.0436
+data structur,0.0395
+list,0.0343
+languag,0.0343
+string,0.0324
+search engin,0.0324
+vocabulari lookup,0.0316
+term time,0.0316
+rel frequenc,0.0316
+perfect hash function,0.0316
+perfect hash,0.0316
+effici search,0.0316
+disk resid,0.0316
+disk block,0.0316
+binari test,0.0316
+balanc properti,0.0316
+auxiliari structur,0.0316
+standard,0.0306
+term vocabulari,0.0265
+subtre,0.0265
+structur search,0.0265
+standard invert index,0.0265
+robust,0.0265
+proxim queri,0.0265
+list document,0.0265
+data,0.0241
+queri time,0.0235
+proxim,0.0235
+post list,0.0235
+frequenc,0.0213
+document term,0.0213
+boolean,0.0213
+univers,0.0197
+task,0.0197
+effici,0.0183
+class,0.0183
+block,0.0183
+identifi,0.0172
+posit,0.0162
+phrase,0.0145
+specif,0.0138
+comput,0.0126
+word,0.012
+system,0.012

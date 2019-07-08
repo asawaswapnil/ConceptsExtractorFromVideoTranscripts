@@ -1,0 +1,29 @@
+concept,weight
+inform,0.4475
+queri,0.3655
+inform retriev,0.324
+ir,0.3029
+retriev,0.2788
+search,0.2662
+databas,0.2121
+ir system,0.2082
+document,0.1775
+rank,0.1713
+collect,0.1713
+web search engin,0.1656
+web search,0.1388
+search engin,0.1142
+relev,0.0975
+sql queri,0.0934
+search string,0.0934
+ir applic,0.0934
+text,0.0848
+retriev process,0.0828
+score,0.0752
+retriev system,0.0752
+inform retriev system,0.0752
+metadata,0.0646
+string,0.0571
+index,0.0571
+map,0.054
+key,0.0487

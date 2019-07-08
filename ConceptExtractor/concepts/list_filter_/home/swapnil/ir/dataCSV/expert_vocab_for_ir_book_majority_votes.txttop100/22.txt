@@ -1,0 +1,33 @@
+concept,weight
+featur,0.6027
+queri,0.4798
+relev,0.394
+document,0.1931
+class,0.1607
+tf idf,0.1544
+tf,0.1544
+idf,0.1544
+classifi,0.1507
+classif,0.1294
+weight,0.1205
+retriev,0.1155
+document relev,0.0804
+text,0.0791
+vector,0.0753
+tf idf weight,0.0581
+independ,0.0581
+idf weight,0.0581
+class classif,0.0581
+queri term,0.0468
+train data,0.0431
+optim,0.0431
+inform,0.0428
+effect,0.0402
+train,0.0377
+post,0.0377
+search engin,0.0355
+specif,0.0303
+product,0.0303
+term,0.0276
+search,0.0276
+sort,0.0264

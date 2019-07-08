@@ -1,0 +1,9 @@
+concept,weight
+accumul,0.7279
+unstructur data,0.5861
+inform,0.3026
+rout,0.1173
+dictionari,0.0945
+regular,0.0812
+data structur,0.0584
+type,0.0489

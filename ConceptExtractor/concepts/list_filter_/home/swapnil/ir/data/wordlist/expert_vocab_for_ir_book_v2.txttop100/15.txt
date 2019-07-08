@@ -1,0 +1,14 @@
+concept,weight
+code,0.4214
+mean,0.4198
+specif,0.3598
+tag,0.3448
+structur,0.3216
+structur data,0.2998
+markup,0.2777
+schema,0.2385
+data,0.2089
+term,0.1092
+html,0.0854
+rank,0.0702
+text,0.0522

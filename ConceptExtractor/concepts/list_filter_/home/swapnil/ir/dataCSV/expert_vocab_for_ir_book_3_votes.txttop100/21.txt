@@ -1,0 +1,9 @@
+concept,weight
+effect,0.9004
+unstructur data,0.2955
+type,0.1808
+search engin,0.1326
+index,0.1326
+relev,0.1132
+data structur,0.1079
+databas,0.0985

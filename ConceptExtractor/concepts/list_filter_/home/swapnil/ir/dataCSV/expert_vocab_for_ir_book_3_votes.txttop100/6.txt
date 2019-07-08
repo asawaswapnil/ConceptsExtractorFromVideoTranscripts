@@ -1,0 +1,5 @@
+concept,weight
+test,0.5143
+schema,0.5143
+metadata,0.5143
+rank,0.4543

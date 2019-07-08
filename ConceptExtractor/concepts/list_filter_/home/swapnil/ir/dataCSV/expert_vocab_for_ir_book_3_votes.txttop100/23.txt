@@ -1,0 +1,68 @@
+concept,weight
+queri,0.604
+document,0.6003
+term,0.2488
+ir,0.2142
+rank,0.1809
+relev,0.1664
+topic,0.1477
+document rank,0.1101
+neural network,0.0911
+queri term,0.0734
+specif,0.0713
+queri document pair,0.0683
+corpu,0.0665
+score,0.0642
+relev feedback,0.0605
+pseudo relev feedback,0.0605
+inform,0.0587
+nearest neighbor,0.0569
+type,0.0522
+effect,0.0473
+spars,0.0455
+machin learn,0.0404
+cosin similar,0.0404
+encod,0.0367
+term frequenc,0.0342
+centroid,0.0342
+train data,0.0338
+inform retriev,0.0329
+weight,0.0315
+document relev,0.0315
+index,0.0278
+vector space,0.0275
+relev document,0.0275
+dot product,0.0275
+train document,0.0228
+entropi,0.0228
+split,0.0202
+queri expans,0.0183
+web search,0.0169
+memori,0.0169
+regular,0.0158
+filter,0.0158
+search engin,0.0139
+key,0.0119
+trec,0.0114
+translat model,0.0114
+topic relev,0.0114
+term ambigu,0.0114
+synonymi,0.0114
+proxim queri,0.0114
+ndcg,0.0114
+lexicon,0.0114
+index term,0.0114
+extend queri,0.0114
+retriev model,0.0101
+queri represent,0.0101
+linear,0.0101
+invers document frequenc,0.0101
+document vector,0.0101
+normal,0.0092
+measur,0.0092
+document retriev,0.0092
+document frequenc,0.0092
+precis,0.0085
+label,0.0085
+test,0.0079
+classifi,0.0074

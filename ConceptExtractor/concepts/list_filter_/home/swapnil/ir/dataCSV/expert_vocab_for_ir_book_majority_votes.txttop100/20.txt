@@ -1,0 +1,59 @@
+concept,weight
+tree,0.6466
+node,0.3512
+search tree,0.258
+hash,0.2287
+binari search,0.2224
+binari,0.205
+binari search tree,0.2046
+search,0.1902
+term,0.1817
+children,0.1656
+dictionari,0.1649
+string,0.1087
+index,0.1033
+subtre,0.0979
+hash function,0.0979
+post list,0.071
+key,0.0696
+post,0.0692
+byte,0.0573
+pointer,0.0534
+intern node,0.0534
+map,0.0514
+vocabulari,0.0397
+path,0.0358
+document frequenc,0.0358
+invert index,0.0315
+invert,0.0315
+retriev,0.031
+document,0.0296
+term vocabulari,0.0267
+standard invert index,0.0267
+leaf node,0.0267
+queri,0.0232
+algorithm,0.0231
+collect,0.0217
+sort,0.0202
+root element,0.0178
+data structur,0.0177
+linear,0.0158
+secur,0.0132
+compress,0.0132
+inform,0.0131
+corpu,0.0115
+wildcard queri,0.0089
+tree travers,0.0089
+structur term,0.0089
+recal,0.0089
+main memori,0.0089
+dictionari data structur,0.0089
+dictionari compress,0.0089
+compress post list,0.0089
+binari tree,0.0089
+smooth,0.0079
+disk,0.0079
+memori,0.0066
+metadata,0.0062
+field,0.0049
+structur data,0.0039

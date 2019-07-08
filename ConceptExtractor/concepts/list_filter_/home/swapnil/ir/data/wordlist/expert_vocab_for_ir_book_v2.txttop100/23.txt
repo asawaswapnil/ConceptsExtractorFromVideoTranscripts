@@ -1,0 +1,101 @@
+concept,weight
+model,0.4794
+queri,0.3728
+document,0.3705
+train,0.3464
+learn,0.292
+word,0.2202
+featur,0.175
+term,0.1535
+text,0.1404
+ir,0.1322
+task,0.1305
+rank,0.1117
+vector,0.1094
+relev,0.1027
+match,0.0953
+topic,0.0912
+train queri,0.0843
+field,0.0771
+data,0.0703
+document rank,0.0679
+neural network,0.0562
+top,0.0528
+network,0.0501
+posit,0.0472
+queri term,0.0453
+specif,0.044
+mean,0.044
+queri document pair,0.0422
+retriev,0.0419
+corpu,0.041
+score,0.0396
+relev feedback,0.0374
+pseudo relev feedback,0.0374
+document pair,0.0374
+inform,0.0363
+nearest neighbor,0.0351
+versu,0.034
+type,0.0322
+univers,0.0313
+matrix,0.0313
+length,0.0292
+effect,0.0292
+frequenc,0.0283
+spars,0.0281
+term document,0.0249
+machin learn,0.0249
+expand queri,0.0249
+cosin similar,0.0249
+search,0.0234
+distribut,0.0228
+encod,0.0226
+document term,0.0226
+anchor text,0.0226
+sort,0.0223
+term frequenc,0.0211
+subset,0.0211
+centroid,0.0211
+train data,0.0209
+text document,0.0209
+inform retriev,0.0203
+weight,0.0194
+follow,0.0194
+document relev,0.0194
+proxim,0.0187
+perform,0.0182
+depend,0.0175
+index,0.0172
+vector space,0.017
+relev document,0.017
+queri word,0.017
+dot product,0.017
+map,0.0162
+skip,0.0157
+dimension,0.0157
+analysi,0.0157
+product,0.0147
+vector represent,0.0141
+train document,0.0141
+nois,0.0141
+misspel,0.0141
+machin learn model,0.0141
+loss,0.0141
+ir model,0.0141
+global analysi,0.0141
+entropi,0.0141
+cross entropi,0.0141
+bit,0.014
+user,0.0134
+split,0.0125
+queri model,0.0125
+function,0.0116
+shift,0.0113
+rank document,0.0113
+queri expans,0.0113
+evalu,0.0113
+assumpt,0.0113
+applic,0.011
+web search,0.0104
+memori,0.0104
+element,0.0104

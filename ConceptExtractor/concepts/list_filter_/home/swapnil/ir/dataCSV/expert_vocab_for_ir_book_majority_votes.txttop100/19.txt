@@ -1,0 +1,41 @@
+concept,weight
+type,0.6881
+key,0.4055
+string,0.3364
+queri,0.2253
+sort,0.2059
+bit,0.1933
+databas,0.1765
+schema,0.112
+filter,0.112
+join,0.105
+code,0.0989
+split,0.0861
+reuter,0.0648
+hash,0.0574
+break,0.0522
+specif,0.0507
+compress,0.0481
+search,0.0461
+featur,0.0448
+vector,0.042
+map,0.0374
+odd,0.0324
+direct graph,0.0324
+term,0.0308
+merg,0.0287
+ascii,0.0287
+accumul,0.0287
+queri term,0.0261
+normal,0.0261
+node,0.0261
+precis,0.0241
+inform,0.0239
+regular,0.0224
+class,0.0224
+perform,0.021
+algorithm,0.021
+field,0.0178
+data structur,0.0161
+unstructur data,0.0147
+structur data,0.0141

@@ -1,0 +1,13 @@
+concept,weight
+unstructur data,0.5503
+databas,0.4717
+inform,0.4465
+type,0.2885
+classifi,0.2246
+data structur,0.1722
+queri,0.1505
+relat databas,0.1395
+byte,0.1395
+break,0.1395
+classif,0.1286
+weight,0.1198

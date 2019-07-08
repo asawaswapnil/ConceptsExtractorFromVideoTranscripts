@@ -1,0 +1,29 @@
+concept,weight
+data,0.8903
+evalu,0.2706
+effect,0.1743
+user,0.1595
+search,0.1595
+cost,0.1353
+structur,0.0839
+product,0.0657
+bit,0.0626
+unstructur data,0.0572
+identifi,0.0545
+system,0.0381
+file system,0.0372
+structur data,0.0365
+type,0.035
+text data,0.0312
+effici,0.029
+join,0.0272
+search engin,0.0257
+index,0.0257
+top,0.0243
+model,0.0243
+function,0.023
+relev,0.0219
+process,0.0209
+data structur,0.0209
+text,0.0191
+databas,0.0191

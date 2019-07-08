@@ -1,0 +1,36 @@
+concept,weight
+tree,0.5828
+search tree,0.3288
+term,0.3265
+hash,0.2914
+queri,0.2599
+queri term,0.2167
+vocabulari,0.1999
+dictionari,0.1926
+invert index,0.1589
+invert,0.1589
+vocabulari term,0.1495
+index,0.1096
+key,0.0936
+pointer,0.0897
+document collect,0.0897
+binari tree,0.0897
+binari search tree,0.0897
+binari search,0.0897
+collect,0.0731
+document,0.071
+test,0.062
+wildcard queri,0.0598
+hash function,0.0598
+post,0.0582
+data structur,0.0446
+string,0.0365
+search engin,0.0365
+rel frequenc,0.0357
+term vocabulari,0.0299
+standard invert index,0.0299
+proxim queri,0.0299
+post list,0.0265
+boolean,0.0241
+class,0.0207
+specif,0.0156

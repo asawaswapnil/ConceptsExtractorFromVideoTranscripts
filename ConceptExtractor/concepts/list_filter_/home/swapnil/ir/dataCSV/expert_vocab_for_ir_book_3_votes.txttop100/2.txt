@@ -1,0 +1,15 @@
+concept,weight
+unstructur data,0.4923
+byte,0.4851
+databas,0.4376
+type,0.3513
+label,0.2684
+document,0.2288
+term,0.1716
+structur queri,0.1204
+disk space,0.1204
+break,0.097
+test,0.0833
+data structur,0.0599
+queri,0.0524
+inform,0.0444

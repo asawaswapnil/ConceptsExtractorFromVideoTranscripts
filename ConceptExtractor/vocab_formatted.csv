@@ -1,0 +1,2059 @@
+0,
+1,accent
+2,access control list
+3,access permiss
+4,accumul
+5,accumul evid
+6,accuraci
+7,acl
+8,activ learn
+9,ad hoc inform retriev
+10,ad hoc inform retriev effect
+11,ad hoc inform retriev system
+12,ad hoc inform retriev system evalu
+13,ad hoc retriev
+14,ad hoc search
+15,ad hoc text search
+16,add smooth
+17,addit structur constraint
+18,advanc search interfac
+19,aggreg score function
+20,aggress featur select
+21,algorithm
+22,altern queri suggest
+23,ambigu term
+24,amultinomi naiv bayesmodel
+25,analysi
+26,analyt program
+27,anchor text
+28,api
+29,applic
+30,applic program interfac
+31,arithmet
+32,array
+33,array normal
+34,ascii
+35,ascii encod
+36,ascii text
+37,assumpt
+38,attribut node
+39,augment post list
+40,automat classif
+41,automat deriv thesauru
+42,automat local analysi
+43,automat queri expans
+44,automat thesauru
+45,automat thesauru gener
+46,auxiliari index
+47,auxiliari index scheme
+48,auxiliari structur
+49,averag precis
+50,bag
+51,bag word
+52,bag word model
+53,bag word represent
+54,balanc measur
+55,balanc properti
+56,bay optim decis rule
+57,bay risk
+58,bay rule
+59,bayesian network
+60,bayesian network approach
+61,bayesian network base inform retriev system
+62,bayesian network model
+63,bayesian prior
+64,bayesian text classif
+65,bayesian updat
+66,bayesian updat process
+67,bernoulli model
+68,bernoulli nb classifi
+69,bernoulli nb model
+70,bernoulli random variabl
+71,beta distribut prior
+72,bia
+73,bia term
+74,bia varianc tradeoff
+75,bigram
+76,bigram languag model
+77,bilingu dictionari
+78,bim
+79,bim model
+80,binari
+81,binari classif
+82,binari evalu
+83,binari independ model
+84,binari model
+85,binari notion relev
+86,binari occurr
+87,binari relev
+88,binari relev assess
+89,binari relev judgment
+90,binari relev nonrelev judgment
+91,binari represent
+92,binari search
+93,binari search tree
+94,binari term document incid matrix
+95,binari term incid vector
+96,binari test
+97,binari tree
+98,binari vector
+99,binomi distribut
+100,binomi heap data structur
+101,bit
+102,bit level
+103,bit level code
+104,bit level encod
+105,bit level oper
+106,bit manipul
+107,bit word
+108,bitwis compress
+109,biword
+110,biword dictionari
+111,biword index
+112,biword index model
+113,biword statist
+114,blind relev feedback
+115,block
+116,block file
+117,block sort base index
+118,block sort base index algorithm
+119,block storag
+120,blog
+121,bm term weight
+122,bm weight
+123,bm weight scheme
+124,bodi zone
+125,boolean
+126,boolean combin
+127,boolean express
+128,boolean function
+129,boolean index
+130,boolean indic relev
+131,boolean indic variabl
+132,boolean judgment
+133,boolean keyword search
+134,boolean match function
+135,boolean match score
+136,boolean model
+137,boolean model ir
+138,boolean oper
+139,boolean probabilist model
+140,boolean queri
+141,boolean queri model
+142,boolean represent
+143,boolean represent document
+144,boolean represent queri
+145,boolean represent relev
+146,boolean retriev
+147,boolean retriev model
+148,boolean retriev oper
+149,boolean retriev system
+150,boolean retriev ystem
+151,boolean rule base classifi
+152,boolean score
+153,boolean search
+154,boolean search engin
+155,boolean valu
+156,boolean variabl
+157,boost
+158,boost decis tree
+159,boost multipl classifi
+160,bootstrap
+161,branch
+162,break
+163,broader term
+164,bsbi
+165,buffer
+166,byte
+167,byte encod
+168,byte pointer
+169,bytewis compress
+170,ca
+171,ca queri
+172,ca topic
+173,cach
+174,cach util
+175,capit
+176,categor
+177,categori
+178,central data structur
+179,central file system
+180,central invert index data structur
+181,centroid
+182,centroid base classif
+183,cetegori
+184,cf
+185,chain rule
+186,champion list
+187,charact encod
+188,charact entiti
+189,charact gram
+190,charact sequenc decod
+191,chi featur select
+192,child node pair
+193,child relationship
+194,children
+195,chunk
+196,claissif
+197,clasifi
+198,class
+199,class boundari
+200,class centroid
+201,class classif
+202,class classifi
+203,class data set
+204,class linear classifi
+205,class membership
+206,class region
+207,classic reuter collect
+208,classif
+209,classif accuraci
+210,classif algorithm
+211,classif approach
+212,classif class
+213,classif decis
+214,classif effect
+215,classif error
+216,classif function
+217,classif method
+218,classif rule
+219,classif safeti margin
+220,classif scheme
+221,classif task
+222,classif text document
+223,classifi
+224,classifi effect
+225,classifi perform
+226,classifi speed
+227,clef
+228,click rate
+229,clickstream data
+230,clickstream mine
+231,clickthrough log analyai
+232,clickthrough log analysi
+233,clock cycl
+234,close tag
+235,cluster
+236,cluster base clasif
+237,cluster prune
+238,code
+239,codeword
+240,coeffici
+241,collaps
+242,collect
+243,collect document
+244,collect frequenc
+245,collect frequenc cf
+246,collect gener probabl
+247,collect statist
+248,collect vocabulari
+249,collect wide statist
+250,collis
+251,combin match model
+252,complement
+253,complex learn
+254,complex train test
+255,compon coverag
+256,compound
+257,compound split
+258,compound splitter
+259,compound splitter modul
+260,compress
+261,compress algorithm
+262,compress chunk
+263,compress dictionari
+264,compress index
+265,compress invert index
+266,compress posit index
+267,compress post list
+268,compress ratio
+269,compress scheme
+270,compress techniqu
+271,comput
+272,comput cluster
+273,comput cost
+274,comput effici
+275,comput effici classif
+276,comput linguist
+277,comput vision
+278,concept drift
+279,concurr post travers
+280,concurr travers
+281,condit distribut
+282,condit independ
+283,condit independ assumpt
+284,condit probabl
+285,condit probabl distribut
+286,condit random field
+287,confid
+288,confid decis
+289,confid threshold
+290,confus matrix
+291,conjunct queri
+292,conjunct search
+293,conjunct semant
+294,connector
+295,constraint
+296,consum face search applic
+297,content criteria
+298,content manag system
+299,content node
+300,content structur topic
+301,content system
+302,context resembl
+303,context resembl function
+304,context sensit correct
+305,context sensit spell correct
+306,contigu hypothesi
+307,continu bit
+308,control vocabulari
+309,convex polygon
+310,convex region
+311,corpu
+312,cosin measur
+313,cosin normal
+314,cosin normal equat
+315,cosin score
+316,cosin score algorithm
+317,cosin similar
+318,cost
+319,coverag
+320,cranfield
+321,cranfield collect
+322,crawl
+323,crawler
+324,cross entropi
+325,cross languag evalu forum
+326,cross languag inform retriev
+327,cross languag ir
+328,cubic kernel
+329,cumul gain
+330,data
+331,data analysi
+332,data centric approach
+333,data centric xml
+334,data centric xml retriev
+335,data centric xml retriev system
+336,data collect
+337,data flow
+338,data model
+339,data set
+340,data spars
+341,data structur
+342,data transfer
+343,data transfer rate
+344,data vector
+345,databas
+346,databas framework
+347,databas queri
+348,databas style search
+349,databas system
+350,databs system
+351,de facto standard
+352,decis boundari
+353,decis function
+354,decis hyperplan
+355,decis line
+356,decis margin
+357,decis rule
+358,decis surfac
+359,decis tree
+360,decod
+361,decompress
+362,decompress algorithm
+363,decompress method
+364,decompress speed
+365,degre freedom
+366,depend
+367,descript metadata
+368,desktop machin
+369,develop set
+370,develop test collect
+371,dewey decim system
+372,df
+373,diacrit
+374,dictionari
+375,dictionari compress
+376,dictionari data structur
+377,dictionari page
+378,dictionari string method
+379,dictionari structur
+380,dictionari term
+381,digit document
+382,digit librari
+383,digit represent
+384,dimension
+385,dimension featur space
+386,dimension plane
+387,dimension reduct
+388,dimension reduct techniqu
+389,dimension space
+390,dimension vector
+391,dimension vector represent
+392,direct acycl graph
+393,direct graph
+394,directhit search engin
+395,discret probabl distribut
+396,discretizt function
+397,disk
+398,disk block
+399,disk drive
+400,disk memori transfer
+401,disk post list
+402,disk resid
+403,disk seek
+404,disk space
+405,distribut
+406,distribut comput
+407,distribut environ
+408,distribut index
+409,distribut index algorithm
+410,distribut index construct method
+411,docid
+412,docid sort index
+413,document
+414,document cach
+415,document classif
+416,document classif decis
+417,document cluster
+418,document collect
+419,document collect network
+420,document delin
+421,document frequenc
+422,document frequenc df
+423,document gener model
+424,document gener probabl
+425,document id
+426,document identif
+427,document identifi
+428,document languag
+429,document languag model
+430,document length
+431,document length normal
+432,document length normal method
+433,document length scale
+434,document level statist
+435,document likelihood
+436,document likelihood approach
+437,document likelihood model
+438,document manag system
+439,document metadata
+440,document model
+441,document pair
+442,document partit
+443,document partit index
+444,document path
+445,document queri pair
+446,document queri weight scheme
+447,document rank
+448,document relev
+449,document represent
+450,document retriev
+451,document score
+452,document space
+453,document specif multinomi distribut
+454,document structur
+455,document summari
+456,document term
+457,document term frequenc
+458,document term frequenc scale
+459,document time score
+460,document unit
+461,document unit vector
+462,document variat
+463,document vector
+464,document weight function
+465,document zone
+466,dom
+467,dom api
+468,domain specif search
+469,domain specif text featur
+470,domain specif thesauru
+471,domain vocabulari
+472,domin key
+473,dot prodcut score
+474,dot product
+475,doubl quot syntax
+476,dual
+477,dynam construct index
+478,dynam index
+479,dynam program
+480,dynam program algorithm
+481,dynam summari
+482,edit distanc
+483,edit oper
+484,effect
+485,effect relev feed
+486,effect xml retriev
+487,effet
+488,effici
+489,effici comput
+490,effici decompress algorithm
+491,effici gain
+492,effici search
+493,effici singl machin algorithm
+494,element
+495,element node
+496,element node tree
+497,element path
+498,element type
+499,em algorithm
+500,email applic
+501,email sort
+502,email spam filter
+503,encod
+504,encod gap
+505,enterpris resourc plan system
+506,enterpris search
+507,enterpris search server
+508,entiti tag
+509,entropi
+510,equat
+511,equival class
+512,error minim
+513,estim probabl relev
+514,ethnograph interview techniqu
+515,euclidean distanc
+516,euclidean length
+517,euclidian length
+518,evalu
+519,evalu measur
+520,evalu metric
+521,evalu relev feedback strategi
+522,evalu scheme
+523,evalu text classif
+524,evalu xml retriev
+525,evid accumul
+526,exact match condit
+527,excit search engin
+528,excit web search engin
+529,exhaust biword dictionari
+530,expand queri
+531,expect frequenc
+532,expect maximim algorithm
+533,explicit feedback
+534,explicit pointer
+535,express
+536,extend biword
+537,extend biword index
+538,extend boolean model
+539,extend post list data structur
+540,extend queri
+541,extens markup languag
+542,extent boolean model
+543,extern sort algorithm
+544,fals neg
+545,fals posit
+546,fals posit match
+547,fanci list
+548,fast memori sort
+549,fat decis margin
+550,featur
+551,featur classifi
+552,featur conjunct
+553,featur engin
+554,featur select
+555,featur select algorithm
+556,featur select method
+557,featur select statist
+558,featur spars
+559,featur text
+560,featur vector
+561,field
+562,field index
+563,field queri
+564,file post list scheme
+565,file system
+566,filter
+567,fine grain topic
+568,finit automata
+569,finit automaton
+570,fit train set perfectli classifi
+571,fix vocabulari
+572,fold
+573,follow
+574,foreign broadcast inform servic
+575,foreign word
+576,formal evalu measur
+577,formal languag theori
+578,format detect
+579,free text queri
+580,free text retriev
+581,free text user queri
+582,frequenc
+583,frequenc base featur select
+584,frequenc term occurr
+585,frequent term
+586,frog
+587,front code
+588,function
+589,function margin
+590,gamma code
+591,gamma compress
+592,gamma encod
+593,gap
+594,gaussian distribut
+595,gb
+596,gener model
+597,gener process
+598,gener queri
+599,geometr
+600,geometr margin
+601,gigabyt
+602,global analysi
+603,global analysi techniqu
+604,global champion list
+605,global method
+606,gold standard
+607,googl index system
+608,gov
+609,gov web page collect
+610,grade evalu
+611,gram
+612,gram featur
+613,gram index
+614,gram matrix
+615,gram overlap
+616,grammar base languag model
+617,grammat analysi
+618,grammat depend
+619,grammat relat
+620,greedi featur select
+621,greedi method
+622,grep
+623,grid search
+624,ground truth
+625,hard disk
+626,hardwar basic
+627,harmon
+628,hash
+629,hash collis
+630,hash function
+631,hasskip
+632,heap
+633,heap law
+634,held data
+635,held portion
+636,heurist
+637,heurist method
+638,heurist rule
+639,hidden markov model
+640,hierarch classif
+641,hierarch structur
+642,highli relev element
+643,hilbert space
+644,html
+645,html page
+646,http
+647,human comput interfac
+648,human languag
+649,hyperlan
+650,hyperplan
+651,hyperspher
+652,hypertext
+653,hyphen
+654,ide dec
+655,ide edc
+656,identifi
+657,idf
+658,idf weight
+659,imag search
+660,imag search system
+661,impact
+662,impact sort index
+663,implicit feedback
+664,implicit phrase queri
+665,implicit proxim search
+666,implicit relev feedback
+667,incid matrix
+668,incid vector
+669,increment index
+670,ind pendent ident distribut data
+671,independ
+672,independ ident distribut data
+673,index
+674,index algorithm
+675,index compress
+676,index construct
+677,index construct algorithm
+678,index construct time
+679,index constuct
+680,index elimin
+681,index granular
+682,index mainten
+683,index model
+684,index retriev system
+685,index size
+686,index structur
+687,index system
+688,index term
+689,index time
+690,index unit
+691,indic random variabl
+692,indirect relev feedback
+693,inex
+694,inex collect
+695,inex evalu
+696,inex program
+697,inexact match
+698,inexact top document retriev
+699,inexact top retriev
+700,inform
+701,inform filter
+702,inform retirev
+703,inform retriec
+704,inform retriev
+705,inform retriev effect
+706,inform retriev ir
+707,inform retriev ir system
+708,inform retriev oper
+709,inform retriev scheme
+710,inform retriev system
+711,inform retriev system evalu
+712,inform secur
+713,inform secur control issu
+714,inform sought
+715,inform theori
+716,initi evalu xml retriev
+717,input output
+718,input output time
+719,inqueri text retriev system
+720,interact queri expans
+721,interact relev feedback
+722,intercept term
+723,interjudg agreement relev
+724,intermedi data structur
+725,intermedi result list
+726,intern node
+727,interpol averag precis
+728,interpol precis
+729,intersect
+730,intersect oper
+731,interven node
+732,intranet search engin
+733,intuit basic model
+734,invalid bit vector
+735,invers
+736,invers document frequenc
+737,invers document frequenc idf
+738,invert
+739,invert acl index
+740,invert file
+741,invert index
+742,invert index base method
+743,invert index construct
+744,invert index entri
+745,invert list
+746,ir
+747,ir applic
+748,ir collect
+749,ir evalu
+750,ir languag model
+751,ir model
+752,ir queri
+753,ir queri context
+754,ir queri languag
+755,ir result rank
+756,ir system
+757,ir system design
+758,ir test
+759,ir weight
+760,isol term correct
+761,iter process
+762,iter queri refin
+763,jaccard coeffici
+764,join
+765,joint event
+766,joint probabl
+767,judgment relev
+768,kappa
+769,kappa statist
+770,kernel function
+771,kernel hilbert space
+772,kernel trick
+773,key
+774,key pair
+775,key rang
+776,keyword
+777,keyword context
+778,keyword context kwic snippet
+779,keyword match
+780,keyword queri
+781,keyword search
+782,kl diverg
+783,knn
+784,knn algorithm
+785,knn classif
+786,knn classif algorithm
+787,kullback leibler diverg
+788,kwic
+789,kwic snippet
+790,label
+791,label tree
+792,laggard
+793,lagrang multipli
+794,languag
+795,languag automaton
+796,languag cluster
+797,languag format detect
+798,languag identif
+799,languag identif classifi
+800,languag mismatch
+801,languag model
+802,languag model approach
+803,languag model base system
+804,languag model document
+805,languag process
+806,languag theori
+807,laplac smooth
+808,latenc
+809,latent linguist structur
+810,latent semant index
+811,lead wildcard queri
+812,leader
+813,leaf
+814,leaf element
+815,leaf node
+816,learn
+817,learn algorithm
+818,learn decis boundari
+819,learn error
+820,learn method
+821,learn rank function
+822,learn score
+823,learn weight
+824,leav
+825,lemma
+826,lemmat
+827,length
+828,length normal
+829,length normal queri
+830,length normal row
+831,length normal tf idf represent
+832,length normal unit vector
+833,length normal vector
+834,levenshtein distanc
+835,lexic sbutre
+836,lexic subtre
+837,lexic subtre document
+838,lexicon
+839,librari classif scheme
+840,librari congress subject head
+841,librari subject index
+842,likelihood
+843,likelihood linear separ
+844,likelihood ratio
+845,line search
+846,linear
+847,linear classif
+848,linear classifi
+849,linear combin
+850,linear constraint
+851,linear decis hyperplan
+852,linear function
+853,linear hyperplan
+854,linear interpol languag model
+855,linear interpol model
+856,linear interpol smooth
+857,linear interpol smooth method
+858,linear kernel
+859,linear learn method
+860,linear method
+861,linear model
+862,linear pivot normal
+863,linear search
+864,linear separ
+865,linear svm
+866,linear weight document featur
+867,linearli scan
+868,linearli separ
+869,linguist morpholog
+870,linguist preprocess
+871,linguist process
+872,list
+873,list document
+874,list search
+875,lm
+876,lm approach
+877,local analysi
+878,local disk
+879,local file system
+880,local method
+881,log likelihood ratio
+882,log log graph
+883,log log space
+884,log odd ratio
+885,log scale compon
+886,log space
+887,log weight idf
+888,log weight term frequenc
+889,logarithm merg
+890,logweight
+891,lookup
+892,loss
+893,loss model
+894,loss util model
+895,lossi compress
+896,lossi method
+897,lovin stemmer
+898,low
+899,low idf term
+900,lowercas
+901,machin learn
+902,machin learn algorithm
+903,machin learn approach
+904,machin learn base score approach
+905,machin learn base text classif
+906,machin learn classif
+907,machin learn classifi
+908,machin learn data set
+909,machin learn knowledg
+910,machin learn method
+911,machin learn model
+912,machin learn rank
+913,machin learn relev
+914,machin learn score
+915,machin learn sequenc model
+916,machin learn technolog
+917,machin learn theori
+918,machin translat
+919,macroaverag
+920,main index
+921,main memori
+922,main memori cach
+923,manual queri reformul
+924,manual thesauru
+925,map
+926,map phase
+927,map score
+928,map split
+929,mapreduc
+930,mapreduc function
+931,mapreduc job
+932,mapreduc oper
+933,margin
+934,margin classifi
+935,margin maxim
+936,margin relev
+937,margin statist
+938,mark text
+939,markup
+940,markup languag
+941,mask
+942,master
+943,master node
+944,match
+945,match function
+946,mathemat model
+947,mathemat optim
+948,matrix
+949,maximum likelihood estim
+950,maximum posteriori
+951,maximum posteriori estim
+952,maximum posteriori probabl
+953,maximum tf normal
+954,maximuma posteriori
+955,maximuma posteriori class
+956,mb
+957,mean
+958,mean cluster
+959,measur
+960,measur related
+961,measur word
+962,medic ir collect
+963,medlin queri expans
+964,megabyt
+965,megabyt mb
+966,mem ori capac learn method
+967,memori
+968,memori auxiliari index
+969,memori capac
+970,memori capac model
+971,memori hog word
+972,memori sort
+973,mercer condit
+974,mercer kernel
+975,merg
+976,merg algorithm
+977,merg index
+978,merg oper
+979,merg post list
+980,metadata
+981,metadata function
+982,mi
+983,mi featur select
+984,microaverag
+985,minim perfect hash
+986,misclassif
+987,misspel
+988,mle
+989,mle estim
+990,mlr
+991,mobil phone
+992,modapt split
+993,model
+994,model complex
+995,model distribut
+996,model relev
+997,model van rijsbergen
+998,modern web search engin
+999,modifi queri
+1000,morpholog analysi
+1001,mse
+1002,multi class
+1003,multi term queri
+1004,multibyt encod scheme
+1005,multiclass
+1006,multiclass classif
+1007,multiclass svm
+1008,multicor
+1009,multicor comput chip
+1010,multicor processor
+1011,multilabel
+1012,multilabel classif
+1013,multimedia inform
+1014,multimod
+1015,multimod class
+1016,multinomi
+1017,multinomi classif
+1018,multinomi coeffici
+1019,multinomi distribut
+1020,multinomi model
+1021,multinomi naiv bay
+1022,multinomi naiv bay model
+1023,multinomi nb model
+1024,multinomi probabl
+1025,multinomi unigram languag model
+1026,multipass algorithm
+1027,multipl index
+1028,multipl linear regress
+1029,multipl occurr
+1030,multipl term queri
+1031,multiterabyt
+1032,multiterabyt collect
+1033,multivalu classif
+1034,multivari bernoulli model
+1035,multivari bernoulli naiv bay model
+1036,multivari statist analysi
+1037,mutual inform
+1038,naiv bay
+1039,naiv bay assumpt
+1040,naiv bay condit independ assumpt
+1041,naiv bay learn method
+1042,naiv bay model
+1043,naiv bay probabilist model
+1044,naiv bay text classif
+1045,narrow extend xpath
+1046,narrow term
+1047,natur languag process
+1048,natur languag queri
+1049,nb
+1050,nb classif
+1051,nb classifi
+1052,nb learn method
+1053,nb model
+1054,ndcg
+1055,nearest neighbor
+1056,nearest neighbor classif
+1057,nearest neighbor model
+1058,neg feedback
+1059,neg term weight
+1060,nest
+1061,nest element
+1062,network
+1063,network traffic
+1064,neural network
+1065,newsgroup
+1066,nexi
+1067,nexi queri
+1068,nft
+1069,nibbl
+1070,nii test collect ir system
+1071,nist
+1072,nist test document collect
+1073,nlp
+1074,nlp approach
+1075,nlp techniqu
+1076,nn
+1077,node
+1078,nois
+1079,nois document
+1080,nois featur
+1081,noisi exampl
+1082,nonlinear
+1083,nonlinear class boundari
+1084,nonlinear classifi
+1085,nonlinear learn method
+1086,nonlinear method
+1087,nonlinear model
+1088,nonlinear scale
+1089,nonlinear svm
+1090,nonposit index
+1091,nonposit post
+1092,nonrelev
+1093,nonrelev document
+1094,nonrelev document vector
+1095,norm
+1096,normal
+1097,normal discount cumul gain
+1098,normal document
+1099,normal factor
+1100,normal function
+1101,normal log likelihood ratio
+1102,normal process
+1103,normal term frequenc
+1104,normal token
+1105,normal vector
+1106,normalizationg function
+1107,ntcir
+1108,ntf idft
+1109,observ frequenc
+1110,occurr thesauru
+1111,odd
+1112,odd ratio
+1113,odd relev
+1114,offest
+1115,offset
+1116,okapi bm
+1117,okapi bm weight scheme
+1118,okapi weight
+1119,onboard comput
+1120,oper system
+1121,optim
+1122,optim classi
+1123,optim classifi
+1124,optim encod length
+1125,optim learn method
+1126,optim queri
+1127,optim queri vector
+1128,optim weight
+1129,ordin regress
+1130,origin queri term
+1131,outlier
+1132,outlier term
+1133,ova classif
+1134,overfit
+1135,overlap pseudodocu
+1136,overlap score measur
+1137,oxford english dictionari
+1138,pagerank
+1139,pagerank style measur
+1140,paic husk stemmer
+1141,paic stemmer
+1142,paramet estim
+1143,paramet free
+1144,paramet free code
+1145,paramet tie
+1146,paramet vector
+1147,paramet weight
+1148,parametr field
+1149,parametr index
+1150,parametr search
+1151,parametr zone index
+1152,parent
+1153,pars
+1154,pars document
+1155,pars linguist process
+1156,pars score function
+1157,parser
+1158,partit rule
+1159,pass approach
+1160,pass lovin stemmer
+1161,patent databas
+1162,path
+1163,pattern match
+1164,payload
+1165,pdf
+1166,perceptron algorithm
+1167,perfect hash
+1168,perfect hash function
+1169,perform
+1170,perform effici
+1171,permuterm index
+1172,permuterm tree
+1173,permuterm vocabulari
+1174,person inform retriev
+1175,person search
+1176,phonet correct
+1177,phonet equival
+1178,phonet hash
+1179,phonet misspel
+1180,phonet similar
+1181,phrase
+1182,phrase index
+1183,phrase passag match
+1184,phrase queri
+1185,phrase retriev
+1186,phrase search
+1187,pivot documemt length normal
+1188,pivot length
+1189,pivot length normal
+1190,pivot normal document length
+1191,pointer
+1192,polynomi kernel
+1193,polytom
+1194,polytom classif
+1195,pont croft experi
+1196,pont croft multivari bernoulli model
+1197,pool
+1198,porn filter
+1199,porter algorithm
+1200,porter stemmer
+1201,porxim intersect
+1202,posit
+1203,posit factor
+1204,posit feedback
+1205,posit independ
+1206,posit independ assumpt
+1207,posit index
+1208,posit index size
+1209,posit inex
+1210,posit inform
+1211,posit neg error
+1212,posit post
+1213,posit post list
+1214,posit tune paramet
+1215,post
+1216,post data structur
+1217,post entri
+1218,post file
+1219,post file compress
+1220,post filter
+1221,post filter step
+1222,post hit
+1223,post intersect
+1224,post intersect algorithm
+1225,post intersect oper
+1226,post list
+1227,post list data structur
+1228,post list intersect
+1229,post merg
+1230,post merg algorithm
+1231,post pointer
+1232,post travers
+1233,posterior probabl
+1234,postfilt
+1235,poter stemmer
+1236,power law
+1237,pre fetch immin binari test
+1238,precis
+1239,precis orient task
+1240,precis orient task structur retriev
+1241,precis recal curv
+1242,precis recal graph
+1243,prefilt
+1244,prefix free
+1245,preprocess
+1246,princip weight scheme
+1247,prior distribut
+1248,prior linguist process
+1249,prior probabl
+1250,prioriti queue
+1251,prioriti queue data structur
+1252,probabilist approach
+1253,probabilist context free grammar
+1254,probabilist depend
+1255,probabilist finit automaton
+1256,probabilist graph ical model
+1257,probabilist graphic model
+1258,probabilist inform retriev
+1259,probabilist ir
+1260,probabilist ir model
+1261,probabilist ir system
+1262,probabilist languag model
+1263,probabilist languag model approach
+1264,probabilist learn method
+1265,probabilist method
+1266,probabilist model
+1267,probabilist network
+1268,probabilist relev feedback
+1269,probabilist retriev
+1270,probabilist retriev model
+1271,probabilist retriev strategi
+1272,probabilist system
+1273,probabl
+1274,probabl classif
+1275,probabl distribut
+1276,probabl document relev
+1277,probabl estim
+1278,probabl function
+1279,probabl rank principl
+1280,probabl relev
+1281,probabl theori
+1282,process
+1283,processor
+1284,product
+1285,prototyp
+1286,prototyp document
+1287,proxim
+1288,proxim oper
+1289,proxim queri
+1290,proxim search
+1291,proxim weight
+1292,proxim weight score fucntion
+1293,proxim weight score function
+1294,prp
+1295,pseudo relev feedback
+1296,pseudo relev feedback version
+1297,pseudo xpath
+1298,pseudo xpath notat
+1299,pseudocod
+1300,pseudocount
+1301,pseudodocu
+1302,pull model
+1303,push model
+1304,python
+1305,qp
+1306,quadrat function
+1307,quadrat kernel
+1308,quadrat optim
+1309,quadrat optim procedur
+1310,quadrat polynomi
+1311,quadrat program
+1312,quadrat program qp librari
+1313,quantit measur
+1314,queri
+1315,queri behavior
+1316,queri box
+1317,queri depend score
+1318,queri distribut
+1319,queri document pair
+1320,queri document similar
+1321,queri document similar function
+1322,queri evalu
+1323,queri expans
+1324,queri expans dictionari
+1325,queri expans list
+1326,queri gener probabl
+1327,queri gener process
+1328,queri independ inform
+1329,queri interfac
+1330,queri languag
+1331,queri languag model
+1332,queri length
+1333,queri length normal
+1334,queri likelihood
+1335,queri likelihood approach
+1336,queri likelihood languag model
+1337,queri likelihood lm
+1338,queri likelihood model
+1339,queri log
+1340,queri log mine
+1341,queri model
+1342,queri network
+1343,queri oper
+1344,queri oper interact
+1345,queri optim
+1346,queri pars
+1347,queri pars layer
+1348,queri parser
+1349,queri path
+1350,queri process
+1351,queri process time
+1352,queri refin
+1353,queri reformul
+1354,queri represent
+1355,queri result
+1356,queri string
+1357,queri structur
+1358,queri structur term
+1359,queri subexpress
+1360,queri suggest
+1361,queri term
+1362,queri term post list
+1363,queri term proxim
+1364,queri term weight
+1365,queri throughput
+1366,queri time
+1367,queri vector
+1368,queri volum
+1369,queri weight scheme
+1370,queri word
+1371,quueri document similar
+1372,radial basi function
+1373,radii
+1374,random disk seek
+1375,random forest
+1376,random process
+1377,random variabl
+1378,rank
+1379,rank algorithm
+1380,rank boolean retriev
+1381,rank constraint
+1382,rank document
+1383,rank function
+1384,rank retriev
+1385,rank retriev context
+1386,rank retriev method
+1387,rank retriev model
+1388,rank retriev result
+1389,rank retriev situat
+1390,rank retriev system
+1391,rank svm
+1392,raw term frequenc
+1393,rbf
+1394,read buffer
+1395,real valu vector
+1396,rebalanc
+1397,recal
+1398,recal enhanc strategi
+1399,recal precis
+1400,receiv oper characterist
+1401,reconstruct scratch strategi
+1402,record
+1403,reduc phase
+1404,redund result list
+1405,refer retriev system
+1406,regress
+1407,regular
+1408,regular express
+1409,regular linear regress
+1410,regular logist regress
+1411,regular tree
+1412,rel frequenc
+1413,relat attribut
+1414,relat attribut constraint
+1415,relat data
+1416,relat databas
+1417,relat databs
+1418,related document
+1419,relev
+1420,relev assess
+1421,relev base assess
+1422,relev coverag combin
+1423,relev decis
+1424,relev document
+1425,relev feedback
+1426,relev feedback approach
+1427,relev feedback model
+1428,relev feedback strategi
+1429,relev feedback techniqu
+1430,relev feedback weight
+1431,relev inform
+1432,relev judgment
+1433,relev model lavrenko croft
+1434,relev rank result
+1435,relevan judgment
+1436,residu collect
+1437,respons time
+1438,result list
+1439,result set
+1440,result snippet
+1441,result user document matrix
+1442,retriev
+1443,retriev algorithm
+1444,retriev document
+1445,retriev document qualiti
+1446,retriev effect
+1447,retriev method
+1448,retriev model
+1449,retriev oper
+1450,retriev perform
+1451,retriev process
+1452,retriev rank
+1453,retriev result
+1454,retriev scenario
+1455,retriev statu
+1456,retriev system
+1457,reuter
+1458,reuter collect
+1459,reuter corpu volum
+1460,reuter rcv
+1461,reuter rcv collect
+1462,reuter rcv dictionari
+1463,revers tree
+1464,rf
+1465,robust
+1466,roc
+1467,roc curv
+1468,rocchio
+1469,rocchio algorithm
+1470,rocchio classif
+1471,rocchio classif centroid
+1472,rocchio classifi
+1473,rocchio formula
+1474,rocchio relev feedback
+1475,rocchio relev feedback model
+1476,rocchio vector
+1477,root
+1478,root element
+1479,root leaf path
+1480,root node
+1481,rotat
+1482,rotat term
+1483,rotat wildcard queri
+1484,rout
+1485,rudimentari search system
+1486,rule
+1487,rule text classif
+1488,safesearch
+1489,sampl text
+1490,scalabl classifi
+1491,scale properti
+1492,schema
+1493,schema divers
+1494,schema heterogen
+1495,score
+1496,score document
+1497,score function
+1498,score modul
+1499,scratch
+1500,search
+1501,search engin
+1502,search engin index
+1503,search interfac
+1504,search oper
+1505,search process
+1506,search result
+1507,search string
+1508,search system
+1509,search term
+1510,search tree
+1511,searcher vocabulari
+1512,searh system
+1513,secondari key
+1514,secondari storag
+1515,secur
+1516,securityi
+1517,seek time
+1518,segement file
+1519,segment
+1520,segment file
+1521,semant identifi
+1522,semi supervis learn algorithm
+1523,semi supervis train method
+1524,semistructur queri
+1525,semistructur retriev
+1526,semistructur search
+1527,sensit
+1528,sentenc length natur languag queri
+1529,sentiment detect
+1530,separ data
+1531,separ file
+1532,separ hyperplan
+1533,separ segment file
+1534,sequenc model
+1535,sequenti read
+1536,serach system
+1537,set base measur
+1538,sgml
+1539,share task evalu
+1540,shift
+1541,shml
+1542,short queri
+1543,sigmoid
+1544,signific
+1545,similar function
+1546,simmerg
+1547,simnomerg
+1548,simpl conjunct queri
+1549,singl classif function
+1550,singl label classif
+1551,singl link list
+1552,singl machin algorithm
+1553,singl machin index
+1554,singl pass
+1555,singl pass memori index
+1556,singl segment file
+1557,singl term queri
+1558,singl vocabulari term
+1559,singli link list
+1560,skip
+1561,skip list
+1562,skip list pointer
+1563,skip pointer
+1564,skip span
+1565,slack variabl
+1566,slton smart system
+1567,smart notat
+1568,smooth
+1569,smooth method
+1570,smooth probabl distribut
+1571,smooth term
+1572,snippet
+1573,socr
+1574,soft margin classif
+1575,soft margin svm
+1576,sort
+1577,sort base index
+1578,sort base index algorithm
+1579,sort post list
+1580,sort sequenti disk read
+1581,soundex
+1582,soundex algorithm
+1583,soundex code
+1584,soundex index
+1585,soundex map
+1586,soundex match
+1587,space effici
+1588,spam
+1589,spam filter
+1590,spam page
+1591,spars
+1592,spars data
+1593,spars matrix
+1594,spars term statist
+1595,specif
+1596,speech languag process
+1597,speech natur languag process
+1598,speech pattern
+1599,speech recognit
+1600,speech recognit applic
+1601,speech tag
+1602,spell correct
+1603,spell correct algorithm
+1604,spell correct techniqu
+1605,spell suggest
+1606,sphere
+1607,spider
+1608,spimi
+1609,spimi algorithm
+1610,spimi invert
+1611,split
+1612,sql queri
+1613,squar error
+1614,squar error term
+1615,stand queri
+1616,standard
+1617,standard desktop machin
+1618,standard invert index
+1619,standard test collect
+1620,standard weight scheme
+1621,startup time
+1622,static collect
+1623,static qualiti
+1624,static qualiti score
+1625,static summar
+1626,static summari
+1627,statist depend
+1628,statist depend variabl
+1629,statist independ
+1630,statist independ variabl
+1631,statist machin translat system
+1632,statist rank retriev model
+1633,statist signific
+1634,statist text classif
+1635,stem
+1636,stemmer
+1637,stop list
+1638,stop word
+1639,stop word elimin
+1640,stop word list
+1641,string
+1642,string kernel
+1643,string match
+1644,structur
+1645,structur constraint
+1646,structur criteria
+1647,structur data
+1648,structur document
+1649,structur document retriev principl
+1650,structur filter
+1651,structur model
+1652,structur queri
+1653,structur queri oper
+1654,structur retriev
+1655,structur search
+1656,structur svm
+1657,structur term
+1658,structur text search
+1659,strucutr queri
+1660,subel
+1661,sublinear tf scale
+1662,suboptim accuraci
+1663,subs quent queri document pair
+1664,subset
+1665,subtre
+1666,subvocabulari
+1667,summari
+1668,super linear train time
+1669,supercomput
+1670,superset
+1671,supervis classifi
+1672,supervis learn
+1673,supervis learn method
+1674,support vector
+1675,support vector data
+1676,support vector machin
+1677,svm
+1678,svm algorithm
+1679,svm classifi
+1680,svm decis boundari
+1681,svm linear classifi
+1682,svm model
+1683,svm optim
+1684,svm perform
+1685,synonymi
+1686,system
+1687,system bu
+1688,system evalu
+1689,system qualiti
+1690,tag
+1691,target term
+1692,task
+1693,term
+1694,term ambigu
+1695,term base comparison
+1696,term block
+1697,term depend
+1698,term dictionari
+1699,term distanc
+1700,term distribut
+1701,term distribut model
+1702,term docid pair
+1703,term document
+1704,term document incid matrix
+1705,term document matrix
+1706,term documentmatrix
+1707,term emiss probabl
+1708,term frequenc
+1709,term frequenc scale
+1710,term incid matrix
+1711,term incid vector
+1712,term independ
+1713,term list
+1714,term pair
+1715,term partit
+1716,term partit index
+1717,term pointer
+1718,term proxim weight
+1719,term queri
+1720,term similar
+1721,term statist
+1722,term term similar
+1723,term time
+1724,term time score
+1725,term vocabulari
+1726,term weight
+1727,term weight approach
+1728,term weight compon
+1729,term weight method
+1730,term weight model
+1731,term weight scheme
+1732,termid
+1733,termid docid pair
+1734,termid docidpair
+1735,termid map
+1736,test
+1737,test collect
+1738,test data
+1739,test document
+1740,test document collect
+1741,test inform
+1742,test se
+1743,test set
+1744,text
+1745,text applic
+1746,text attribut
+1747,text categor
+1748,text centric approach
+1749,text centric retriev
+1750,text centric retriev engin
+1751,text centric structur retriev model
+1752,text centric xml
+1753,text centric xml retriev
+1754,text clasif
+1755,text classif
+1756,text classif algorithm
+1757,text classif collect
+1758,text classif evalu
+1759,text classif method
+1760,text classifi
+1761,text data
+1762,text databas
+1763,text document
+1764,text featur
+1765,text field
+1766,text node
+1767,text retriev
+1768,text retriev confer
+1769,text retriev system
+1770,text search collect
+1771,text statist
+1772,text summar
+1773,tf
+1774,tf idf
+1775,tf idf base term weight approach
+1776,tf idf function
+1777,tf idf model
+1778,tf idf weight
+1779,tf idf weight scheme
+1780,tf normal
+1781,tf threshold
+1782,tf valu
+1783,tf weight
+1784,thesauri
+1785,thesauru
+1786,thesauru base queri expans
+1787,thesauru term
+1788,threshold
+1789,tie paramet
+1790,tier index
+1791,time base comparison
+1792,time complex
+1793,titl zone
+1794,token
+1795,token distinct
+1796,token gener model
+1797,token index
+1798,token list
+1799,token normal
+1800,token phase
+1801,token stream
+1802,toler retriev
+1803,top
+1804,top doc
+1805,top document
+1806,top rel document
+1807,top retriev
+1808,top retriev document
+1809,top score document
+1810,topic
+1811,topic categori
+1812,topic classif
+1813,topic relev
+1814,topic relev dimens
+1815,topic specif search
+1816,topic specif serach
+1817,topic spot
+1818,topic track
+1819,tradit svm algorithm
+1820,tradit thesauru
+1821,trail wildcard queri
+1822,train
+1823,train algorithm
+1824,train classifi
+1825,train collect
+1826,train complex
+1827,train data
+1828,train data set
+1829,train document
+1830,train document collect
+1831,train error
+1832,train exampl
+1833,train queri
+1834,train sampl
+1835,train set
+1836,train test
+1837,train test algorithm
+1838,train time
+1839,transduct svm
+1840,translat dictionari
+1841,translat model
+1842,translat queri gener model
+1843,trec
+1844,trec ad hoc evalu
+1845,trec ad hoc task
+1846,trec ad hoc track
+1847,trec collect
+1848,trec disk
+1849,trec evalu
+1850,trec topic
+1851,trec track
+1852,tree
+1853,tree augment naiv bay model
+1854,tree structur
+1855,tree structur depend
+1856,tree structur depend term
+1857,tree structur term depend
+1858,tree travers
+1859,trine set
+1860,true condit probabl
+1861,true neg
+1862,true posit
+1863,truecas
+1864,tune paramet
+1865,tupl
+1866,twoclass linear classifi
+1867,type
+1868,type token distinct
+1869,type weight
+1870,typograph element
+1871,unari code
+1872,unbias estim
+1873,uncompress dictionari
+1874,uncompress index
+1875,uncompress post file
+1876,uncompress post list
+1877,underli distanc measur
+1878,underli distribut
+1879,underli qp
+1880,underli theori
+1881,unicod utf
+1882,unifi medic languag system
+1883,uniform data
+1884,uniform distribut
+1885,uniform prior
+1886,uniformli distribut pseudocount
+1887,unigram
+1888,unigram assumpt
+1889,unigram languag model
+1890,unigram model
+1891,uninterpol precis recal curv
+1892,uniqu serial
+1893,unit hyperspher
+1894,unit vector
+1895,univers
+1896,univers code
+1897,unix email file
+1898,unnorm token
+1899,unnorm vector
+1900,unrank retriev
+1901,unrank retriev model
+1902,unrank retriev set
+1903,unrank retriev system
+1904,unrank system
+1905,unsmooth model
+1906,unstructur bag word
+1907,unstructur data
+1908,unstructur inform
+1909,unstructur inform retriev
+1910,unstructur retriev
+1911,unstructur retriev effect
+1912,unstructur retriev method
+1913,unstructur search
+1914,unstructur text
+1915,upweight
+1916,upweight document zone
+1917,usag pattern
+1918,user
+1919,user access list
+1920,user author
+1921,user document matrix
+1922,user feedback
+1923,user input
+1924,user membership
+1925,user util
+1926,util
+1927,util model
+1928,valu
+1929,variabl
+1930,variabl byte
+1931,variabl byte code
+1932,variabl byte encod
+1933,variabl byte vb encod
+1934,variabl encod method
+1935,variabl length encod
+1936,varianc
+1937,varianc learn method
+1938,vb
+1939,vb code
+1940,vb compress
+1941,vb encod
+1942,vb encod post list
+1943,vector
+1944,vector classif
+1945,vector model ir
+1946,vector represent
+1947,vector space
+1948,vector space base machin learn method
+1949,vector space classif
+1950,vector space classif method
+1951,vector space classifi
+1952,vector space cosin similar
+1953,vector space index
+1954,vector space ir system
+1955,vector space model
+1956,vector space model calcul
+1957,vector space queri
+1958,vector space retriev
+1959,vector space retriev system
+1960,vector space score
+1961,vector space score method
+1962,vector space score model
+1963,vector space system
+1964,verbos document
+1965,versu
+1966,versu classif
+1967,versu classifi
+1968,versu rest classifi
+1969,vertic search
+1970,vertic search engin
+1971,vocabulari
+1972,vocabulari lookup
+1973,vocabulari overlap
+1974,vocabulari size
+1975,vocabulari stem
+1976,vocabulari structur term
+1977,vocabulari term
+1978,vocabulari tool
+1979,vocalulari tool
+1980,voronoi cell
+1981,voronoi tessel
+1982,vote
+1983,weaker classifi
+1984,web collect
+1985,web directori
+1986,web index
+1987,web link structur
+1988,web queri
+1989,web search
+1990,web search engin
+1991,web search queri
+1992,web search user
+1993,weight
+1994,weight action
+1995,weight count
+1996,weight function
+1997,weight represent
+1998,weight scheme
+1999,weight vector
+2000,weight zone score
+2001,wf
+2002,wf idf
+2003,wildcard
+2004,wildcard oper
+2005,wildcard pattern match
+2006,wildcard phrase queri
+2007,wildcard queri
+2008,wildcard wueri
+2009,word
+2010,word base index
+2011,word cooccurr
+2012,word index
+2013,word occurr statist
+2014,word process suit
+2015,word proxim search
+2016,word segment
+2017,wordnet
+2018,worker node
+2019,world wide web
+2020,write buffer
+2021,write system
+2022,xml
+2023,xml attribut
+2024,xml context
+2025,xml context pair
+2026,xml context term pair
+2027,xml document
+2028,xml document collect
+2029,xml document object model
+2030,xml document retriev
+2031,xml dom
+2032,xml dom document object model
+2033,xml dtd
+2034,xml element
+2035,xml file
+2036,xml format
+2037,xml queri
+2038,xml retriev
+2039,xml retriev effect
+2040,xml retriev system
+2041,xml schema
+2042,xml structur
+2043,xml term pair
+2044,xml tree
+2045,xpath
+2046,xqueri
+2047,xqueri base rank retriev system
+2048,yahoo web search engin
+2049,yate correct
+2050,zip file
+2051,zipf function
+2052,zipf law
+2053,zipf model
+2054,zone
+2055,zone field index
+2056,zone index
+2057,zone score
+2058,zone search

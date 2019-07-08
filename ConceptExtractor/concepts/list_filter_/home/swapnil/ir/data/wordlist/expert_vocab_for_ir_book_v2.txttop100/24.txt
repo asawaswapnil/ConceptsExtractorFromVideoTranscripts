@@ -1,0 +1,11 @@
+concept,weight
+bit,0.653
+data,0.5303
+unstructur data,0.3313
+secur,0.3251
+system,0.1988
+inform,0.1075
+network,0.0946
+key,0.0761
+applic,0.0761
+process,0.0726

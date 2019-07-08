@@ -1,0 +1,49 @@
+concept,weight
+filter,0.4448
+optim,0.4246
+data set,0.4118
+structur,0.3426
+data,0.3318
+join,0.278
+comput,0.1696
+function,0.1306
+type,0.129
+structur data,0.1035
+databas,0.0973
+inform,0.0965
+depend,0.0947
+code,0.0873
+product,0.087
+schema,0.0659
+class,0.0659
+pars,0.0575
+field,0.0522
+key,0.0497
+bit,0.0474
+unstructur data,0.0433
+versu,0.0329
+sort,0.0324
+learn,0.0291
+valu,0.0275
+summari,0.0238
+api,0.0238
+cluster,0.0211
+children,0.0211
+xml,0.0192
+unstructur text,0.0192
+boolean,0.0192
+assumpt,0.0192
+text data,0.0177
+element,0.0177
+regular,0.0165
+topic,0.0154
+perform,0.0154
+network,0.0154
+string,0.0146
+collect,0.0146
+map,0.0138
+specif,0.0124
+match,0.0124
+data structur,0.0118
+user,0.0113
+text,0.0108

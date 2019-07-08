@@ -1,0 +1,84 @@
+concept,weight
+document,0.8143
+queri,0.3296
+search,0.1886
+index,0.1654
+term,0.1629
+search engin,0.1434
+vector,0.1288
+idf,0.112
+inform,0.0998
+collect,0.0882
+post,0.0819
+inform retriev,0.073
+invert index,0.064
+invert,0.064
+cluster,0.064
+retriev,0.0628
+euclidean distanc,0.0541
+document collect,0.0541
+vector space,0.0436
+specif,0.0377
+product,0.0377
+type,0.0376
+class,0.0375
+token,0.0361
+term document matrix,0.0361
+queri process,0.0361
+jaccard coeffici,0.0361
+intersect,0.0361
+boolean valu,0.0361
+rank,0.0331
+tf idf,0.032
+tf,0.032
+post list,0.032
+cosin similar,0.032
+normal,0.0291
+measur,0.0291
+document frequenc,0.0291
+boolean,0.0291
+vocabulari,0.0268
+task,0.0268
+weight,0.025
+topic,0.0234
+algorithm,0.0234
+relev,0.0188
+world wide web,0.018
+vocabulari term,0.018
+term weight,0.018
+stop word,0.018
+short queri,0.018
+search interfac,0.018
+queri oper,0.018
+power law,0.018
+posit index,0.018
+incid vector,0.018
+document space,0.018
+document queri pair,0.018
+dimension space,0.018
+cosin score,0.018
+cosin measur,0.018
+bit,0.018
+sort,0.0164
+vote,0.016
+retriev process,0.016
+queri represent,0.016
+merg,0.016
+invers document frequenc,0.016
+invers,0.016
+document vector,0.016
+score,0.0145
+relev document,0.0145
+queri expans,0.0145
+natur languag process,0.0145
+encod,0.0145
+dot product,0.0145
+document rank,0.0145
+optim,0.0134
+label,0.0134
+metadata,0.0125
+perform,0.0117
+model,0.0104
+map,0.0104
+key,0.0094
+text,0.0082

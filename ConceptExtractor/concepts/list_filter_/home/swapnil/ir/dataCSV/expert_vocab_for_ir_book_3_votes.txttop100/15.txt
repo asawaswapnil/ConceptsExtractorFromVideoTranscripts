@@ -1,0 +1,5 @@
+concept,weight
+specif,0.7982
+schema,0.5291
+term,0.2422
+rank,0.1558

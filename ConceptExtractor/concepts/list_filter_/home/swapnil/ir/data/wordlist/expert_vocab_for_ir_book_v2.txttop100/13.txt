@@ -1,0 +1,16 @@
+concept,weight
+data,0.7545
+structur,0.4462
+structur data,0.336
+databas,0.195
+type,0.1789
+data structur,0.1281
+term,0.0816
+unstructur data,0.078
+pdf,0.0761
+impact,0.0761
+applic,0.0448
+depend,0.0427
+document,0.0408
+word,0.039
+inform,0.0316

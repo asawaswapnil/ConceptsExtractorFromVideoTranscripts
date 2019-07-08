@@ -1,0 +1,4 @@
+concept,weight
+product,0.8255
+index,0.4834
+inform,0.2915

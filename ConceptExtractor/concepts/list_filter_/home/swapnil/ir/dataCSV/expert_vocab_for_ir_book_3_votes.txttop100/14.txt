@@ -1,0 +1,18 @@
+concept,weight
+filter,0.892
+type,0.2587
+databas,0.1952
+inform,0.1936
+schema,0.1322
+class,0.1322
+key,0.0997
+unstructur data,0.0868
+xml,0.0385
+unstructur text,0.0385
+boolean,0.0385
+regular,0.033
+topic,0.031
+string,0.0292
+collect,0.0292
+specif,0.0249
+data structur,0.0238

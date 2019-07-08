@@ -1,0 +1,32 @@
+concept,weight
+filter,0.6037
+optim,0.5763
+join,0.3773
+type,0.1751
+structur data,0.1405
+databas,0.1321
+inform,0.131
+code,0.1185
+product,0.118
+schema,0.0894
+class,0.0894
+pars,0.0781
+field,0.0709
+key,0.0675
+bit,0.0643
+unstructur data,0.0587
+sort,0.044
+cluster,0.0286
+children,0.0286
+xml,0.026
+unstructur text,0.026
+boolean,0.026
+regular,0.0224
+topic,0.021
+perform,0.021
+string,0.0198
+collect,0.0198
+map,0.0187
+specif,0.0169
+data structur,0.0161
+text,0.0147

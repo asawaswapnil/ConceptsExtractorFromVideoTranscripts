@@ -1,0 +1,23 @@
+concept,weight
+type,0.7319
+key,0.4313
+string,0.3578
+queri,0.2396
+databas,0.1877
+schema,0.1191
+filter,0.1191
+split,0.0916
+reuter,0.0689
+hash,0.061
+break,0.0555
+specif,0.0539
+term,0.0327
+accumul,0.0305
+queri term,0.0277
+normal,0.0277
+precis,0.0256
+inform,0.0254
+regular,0.0238
+class,0.0238
+data structur,0.0171
+unstructur data,0.0156
